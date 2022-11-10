@@ -7,6 +7,7 @@ const NavBar = () => {
                 <Container>
                     <Navbar.Brand>MellanaFilm</Navbar.Brand>
                     <Nav>  
+
                         <NavLink>Trending</NavLink>
                         <NavLink>Superhero </NavLink>
                     </Nav>
